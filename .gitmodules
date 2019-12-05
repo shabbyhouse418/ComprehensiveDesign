@@ -1,0 +1,3 @@
+[submodule "front_page"]
+	path = front_page
+	url = git@github.com:LJIJCJ/front_page.git
