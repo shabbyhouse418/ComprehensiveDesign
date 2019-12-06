@@ -4,3 +4,6 @@
 [submodule "jobsSpider"]
 	path = jobsSpider
 	url = git@github.com:ka1i/jobsSpider.git
+[submodule "recruit-flask"]
+	path = recruit-flask
+	url = https://github.com/Beyond1321/recruit-flask.git
